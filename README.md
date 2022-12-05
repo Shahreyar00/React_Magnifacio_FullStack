@@ -10,7 +10,7 @@ REACT_APP_STRIPE_PROMISE = your stripe public key
 
 * For the api side you will have a .env file when you will create strapi project and then in that you can add:
 ```
-STRIPE_KEY= your secret stripe key
+STRIPE_KEY= your stripe secret key
 CLIENT_URL= your redirect route
 ```
 
