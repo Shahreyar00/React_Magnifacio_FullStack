@@ -7,7 +7,7 @@ REACT_APP_API_TOKEN = your strapi api token
 REACT_APP_UPLOAD_URL = http://localhost:1337
 REACT_APP_STRIPE_PROMISE = your stripe public key
 ```
-<br />
+
 * For the api side you will have a .env file when you will create strapi project and then in that you can add:
 ```
 STRIPE_KEY= your secret stripe key
