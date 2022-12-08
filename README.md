@@ -15,4 +15,4 @@ CLIENT_URL= your redirect route
 ```
 
 ### To see the frontend design: ###
-#### [CLICK ME](https://magnifacio.netlify.app) ####
+#### [Checkout the website](https://magnifacio.netlify.app) ####
