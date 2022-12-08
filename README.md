@@ -14,5 +14,4 @@ STRIPE_KEY= your stripe secret key
 CLIENT_URL= your redirect route
 ```
 
-* To see the frontend design:
-#### [Checkout the website](https://magnifacio.netlify.app) ####
+* To see the frontend design: #### [Checkout the website](https://magnifacio.netlify.app) ####
